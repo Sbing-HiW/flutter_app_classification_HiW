@@ -1,0 +1,22 @@
+PODS:
+  - Flutter (1.0.0)
+  - liquid_swipe (0.0.1):
+    - Flutter
+
+DEPENDENCIES:
+  - Flutter (from `Flutter`)
+  - liquid_swipe (from `.symlinks/plugins/liquid_swipe/ios`)
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: Flutter
+  liquid_swipe:
+    :path: ".symlinks/plugins/liquid_swipe/ios"
+
+SPEC CHECKSUMS:
+  Flutter: 0e3d915762c693b495b44d77113d4970485de6ec
+  liquid_swipe: d3dbe523989a927528e7e7d2d0fc674da90cbbf7
+
+PODFILE CHECKSUM: 1b66dae606f75376c5f2135a8290850eeb09ae83
+
+COCOAPODS: 1.8.4
